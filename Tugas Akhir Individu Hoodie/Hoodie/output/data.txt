@@ -1,0 +1,48 @@
+
+DATA HOODIE:
+Kode Hoodie: A01
+Brand: Converse
+Ukuran: L
+Bahan: Cotton
+Harga Hoodie: 250000
+
+DATA PEMBELI:
+Nama: Reza Aditya
+Kota: Semarang
+Alamat: Jl. Sapta Prasetya 3 No. 43
+Kode Hoodie: A01
+Jumlah Hoodie: 2
+Total Harga: 500000
+--------------------------------------
+
+DATA HOODIE:
+Kode Hoodie: A01
+Brand: Converse
+Ukuran: L
+Bahan: Cotton
+Harga Hoodie: 250000
+
+DATA PEMBELI:
+Nama: Reza Aditya
+Kota: Semarang Kota
+Alamat: Jl. Sapta Prasetya III No.43
+Kode Hoodie: A01
+Jumlah Hoodie: 3
+Total Harga: 750000
+--------------------------------------
+
+DATA HOODIE:
+Kode Hoodie: 
+Brand: 
+Ukuran: 
+Bahan: 
+Harga Hoodie: 0
+
+DATA PEMBELI:
+Nama: 
+Kota: 
+Alamat: 
+Kode Hoodie: 
+Jumlah Hoodie: 4199705
+Total Harga: 0
+--------------------------------------
